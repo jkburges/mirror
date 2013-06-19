@@ -1,13 +1,13 @@
 source "https://rubygems.org"
 
+gem 'rake', :group => [:development, :test]
+
 group :development do
-  gem 'rake'
   gem 'guard'
   gem 'guard-minitest'
 end
 
 group :test do
-  gem 'rake'
 end
 
 
