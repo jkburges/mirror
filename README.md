@@ -21,4 +21,6 @@
 ##filters
 * (un)compress
 
-
+##Thanks to
+* http://thomasjo.com/2010/12/15/really-simple-and-naive-ruby-plugin-framework/
+* https://github.com/meskyanichi/backup
