@@ -7,3 +7,7 @@ group :development do
   gem 'guard-minitest'
 end
 
+group :test do
+end
+
+
